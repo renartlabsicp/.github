@@ -1,4 +1,4 @@
-![Logo](icland-logo.png)
+![icland-logo](icland-logo.png)
 
 # ICLand
 
