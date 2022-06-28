@@ -12,7 +12,7 @@ The first tools offered are:
 Discord token holder verification
 Sales & listings Discord bot
 
-Projects will be able to acquire access to the tools either by holding ICLand’s NFTs or by paying a monthly subscription in $ICP.
+Projects will be able to acquire access to the tools either by holding DogFinity NFTs.
 
 **Discord Token Holder Verification**
 The tool provides holder roles across all Discord servers for token holders of NFT collections or similar ICP tokenized communities integrated with ICLand. Token holders only need to connect their Discord accounts and wallets or Internet Identity to ICLand’s interface a single time. The tool will also offer further customization for holder-specific roles.
@@ -56,21 +56,9 @@ Thus, ICLand aims to power the IC’s tokenized communities given the lack of se
 
 - The challenge was to design a scalable solution without using web2 database systems while providing a seamless IaaS solution that will support most ICP projects.
 
-## Accomplishments that we're proud of
-
-- Delivering the main tool ready to use by the end of the hackaton
-- Not relying on web2 database systems
-- Building our first solution using Nextjs for the frontend canister and connecting it to an Oauth2 authentication
-
-## What we learned
-
-- How to develop a Discord bot using Discord.js
-- How to setup oauth2 with Discord
-
 ## What's next for ICLand
 
 Future steps entail:
-Enabling the payment verification (via NFT ownership)
 Launch the product in beta for projects to test
 Explore developing further tools that could take the shape of:
 Token-gated raffles
