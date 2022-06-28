@@ -7,8 +7,8 @@ ICLand powers NFT communities by connecting web3 identities to social spaces &am
 ## What it does
 
 The first tools to be offered are:
-Discord token holder verification [Operational]
-Sales & listings Discord bot [To be released soon]
+ - Discord token holder verification [Operational]
+ - Sales & listings Discord bot [To be released soon]
 
 Projects will be able to acquire access to the tools either by holding DogFinity NFTs.
 
