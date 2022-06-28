@@ -48,7 +48,7 @@ Thus, ICLand aims to power the IC’s tokenized communities given the lack of se
 - Written in Nextjs with Typescript
 - UI that allows:
   - users to connect their wallets and Discord accounts to ICLand
-  - project leaders to connect their wallets and Discord accounts to ICLand, add the bot to their servers and integrate ICLand tools after submitting their project's information.
+  - project leaders to connect their wallets and Discord accounts to ICLand, add the bot to their servers and integrate ICLand's tools after submitting their project's information.
 
 ## Challenges we ran into
 
