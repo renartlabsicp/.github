@@ -15,7 +15,7 @@ Sales & listings Discord bot
 Projects will be able to acquire access to the tools either by holding DogFinity NFTs.
 
 **Discord Token Holder Verification**
-The tool provides holder roles across all Discord servers for token holders of NFT collections or similar ICP tokenized communities integrated with ICLand. Token holders only need to connect their Discord accounts and wallets or Internet Identity to ICLand’s interface a single time. The tool will also offer further customization for holder-specific roles.
+The tool provides holder roles across all Discord servers for token holders of NFT collections or similar ICP tokenized communities integrated with ICLand. Token holders only need to connect their Discord accounts and wallets to ICLand’s interface a single time. The tool will also offer further customization for holder-specific roles.
 
 **Sales & listings Discord bot**
 The ICLand Discord bot creates and updates channels with new NFT token listings and sales.
@@ -50,7 +50,7 @@ Thus, ICLand aims to power the IC’s tokenized communities given the lack of se
 - Written in Nextjs with Typescript
 - UI that allows:
   - users to connect their wallets and Discord accounts to ICLand
-  - project leaders to connect their wallets and Discord accounts to ICLand.
+  - project leaders to connect their wallets and Discord accounts to ICLand, add the bot to their servers and integrate ICLand tools after submitting their project's information.
 
 ## Challenges we ran into
 
@@ -60,8 +60,8 @@ Thus, ICLand aims to power the IC’s tokenized communities given the lack of se
 
 Future steps entail:
 Launch the product in beta for projects to test
+Further customization for holder-specific roles
 Explore developing further tools that could take the shape of:
-Token-gated raffles
 Twitter bot providing activity data;
 Staking tools enabling holders to stake fungible and non-fungible tokens;
 Governance/polling platforms;
