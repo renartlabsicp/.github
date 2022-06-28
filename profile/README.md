@@ -57,9 +57,7 @@ Thus, ICLand aims to power the IC’s tokenized communities given the lack of se
 ## What's next for ICLand
 
 Future steps entail:
-Launch the product in beta for projects to test
-Further customization for holder-specific roles
-Explore developing further tools that could take the shape of:
-Twitter bot providing activity data;
-Staking tools enabling holders to stake fungible and non-fungible tokens;
-Governance/polling platforms;
+
+- Launch the product in beta for projects to test
+- Further customization for holder-specific roles
+- Twitter bot providing activity data;
