@@ -6,8 +6,6 @@ ICLand powers NFT communities by connecting web3 identities to social spaces &am
 
 ## What it does
 
-ICLand powers ICP tokenized communities by connecting web3 identities to social spaces & delivering key token data to communities.
-
 The first tools offered are:
 Discord token holder verification
 Sales & listings Discord bot
